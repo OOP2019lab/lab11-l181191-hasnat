@@ -1,0 +1,14 @@
+Question # 6
+(A)
+The variables, last_name and first_name in class PERSON are private because they do not require any direct access. Moreover, the name of a person cannot be changed and can be initialized during the creation of object only. On the contrary, the variable, age is in private because ut requires access and needs to be changed periodically.
+
+
+(B)
+Private members are inaccessable.
+
+(C)
+I got this error because the variables last_name and first_name is private and cannot be accessed.
+
+Question # 8 & 9
+
+There is no apparent difference but the accesibility of the variables is altered. 
